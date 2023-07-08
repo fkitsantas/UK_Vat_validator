@@ -8,7 +8,7 @@ Visit the live demo to see the UK Vat Validator application in action: [Live Dem
 Backend deployed on [Vercel.com](https://uk-vat-validator.vercel.app/validate_vat/?vat_number=GB905984982&is_business=true)
 Frontend deployed on [Github Pages](https://github.com/fkitsantas/UK_Vat_validator/tree/gh-pages)
 
-WARNING: The deployment process for this demo to [Vercel.com](https://www.vercel.com/), given its lack of compatibility with Django, presented significant challenges. It proved to be a complex endeavor, surpassing the implementation itself in terms of difficulty and complexity.
+**WARNING**: The deployment process for this demo to [Vercel.com](https://www.vercel.com/), given its lack of compatibility with Django, presented significant challenges. It proved to be a complex endeavor, surpassing the implementation itself in terms of difficulty and complexity.
 
 
 ## Table of Contents
