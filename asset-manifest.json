@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UK_Vat_validator/static/css/main.bd5fcd09.css",
+    "main.js": "/UK_Vat_validator/static/js/main.e441d239.js",
+    "static/js/787.18f032e2.chunk.js": "/UK_Vat_validator/static/js/787.18f032e2.chunk.js",
+    "index.html": "/UK_Vat_validator/index.html",
+    "main.bd5fcd09.css.map": "/UK_Vat_validator/static/css/main.bd5fcd09.css.map",
+    "main.e441d239.js.map": "/UK_Vat_validator/static/js/main.e441d239.js.map",
+    "787.18f032e2.chunk.js.map": "/UK_Vat_validator/static/js/787.18f032e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd5fcd09.css",
+    "static/js/main.e441d239.js"
+  ]
+}
