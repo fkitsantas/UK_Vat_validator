@@ -1,4 +1,4 @@
-# UK VAT Validator
+# UK VAT Validator App (Django/ React.JS/ Tailwind.CSS)
 
 ![UK VAT Validator Screenshot](https://i.imgur.com/tTqfz8d.png) 
 

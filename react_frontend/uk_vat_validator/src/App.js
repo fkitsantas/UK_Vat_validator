@@ -2,26 +2,32 @@ import React, { useState } from 'react';
 import axios from 'axios';
 
 function App() {
+  // State variables for VAT number, business status, validation status, and VAT data from HMRC
   const [vatNumber, setVatNumber] = useState('');
   const [isBusiness, setIsBusiness] = useState(false);
   const [isValid, setIsValid] = useState(null);
   const [vatData, setVatData] = useState({});
 
+  // Function to validate VAT number
   const validateVat = async () => {
     try {
+      // Making a GET request to the backend API
       const response = await axios.get(`http://localhost:8000/validate_vat/`, {
         params: {
           vat_number: vatNumber,
           is_business: isBusiness,
         },
       });
+      // Updating the state variables with the response data
       setIsValid(response.data.is_valid);
       setVatData(response.data);
     } catch (error) {
+      // Logging any errors
       console.error(error);
     }
   };
 
+  // Rendering the component
   return (
     <div className="min-h-screen bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
       <div className="relative py-3 sm:max-w-xl sm:mx-auto">
