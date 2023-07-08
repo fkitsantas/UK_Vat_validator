@@ -24,7 +24,7 @@ Frontend deployed on [Github Pages](https://github.com/fkitsantas/UK_Vat_validat
 
 ## About The Project
 
-The UK VAT Validator is a tool designed for the validation of UK VAT numbers. The application is engineered with a backend powered by Django API, a frontend developed using React, and is aesthetically enhanced with Tailwind CSS for a modern and user-friendly interface. You can use it for both individual and business VAT Numbers, and it can pull in extensive business data directly from the UK's HMRC API.
+The UK VAT Validator is a modern and user-friendly application designed to serve as an online tool for the validation of UK VAT numbers. It allows you to check both individual and business VAT numbers, and it can retrieve extensive business data directly from the UK's HMRC API.
 
 ## Technical Stack
 
