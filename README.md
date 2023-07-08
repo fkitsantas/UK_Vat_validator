@@ -3,7 +3,7 @@
 ![UK VAT Validator Screenshot](https://i.imgur.com/tTqfz8d.png)
 ## Live Demo
 
-Visit the live demo to see the UK Vat Validator application in action: [Live Demo](https://fkitsantas.github.io/uk-salary-calculator/)
+Visit the live demo to see the UK Vat Validator application in action: [Live Demo](https://fkitsantas.github.io/UK_Vat_validator/)
 
 Backend deployed on [Vercel.com](https://uk-vat-validator.vercel.app/validate_vat/?vat_number=GB905984982&is_business=true)
 Frontend deployed on [Github Pages](https://github.com/fkitsantas/UK_Vat_validator/tree/gh-pages)
